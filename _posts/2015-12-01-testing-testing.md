@@ -5,7 +5,7 @@ description: "the first of many"
 modified: 
 tags: [ tag1, tag2, tag3 ]
 image:
-  feature: 1.jpg
+  feature: cars.jpg
   credit: 
   creditlink: 
 ---
